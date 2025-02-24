@@ -13,14 +13,18 @@
     "element-plus": "^2.9.4",
     "faker": "^5.5.3",
     "scss": "^0.2.4",
-    "vue": "^3.5.13"
+    "vue": "^3.5.13",
+    "vuedraggable": "^4.1.0"
   },
   "devDependencies": {
     "@faker-js/faker": "^9.5.0",
+    "@types/node": "^22.13.5",
     "@vitejs/plugin-vue": "^5.2.1",
     "@vue/tsconfig": "^0.7.0",
     "sass-embedded": "^1.85.0",
-    "typescript": "~5.7.2",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.19.3",
+    "typescript": "^5.7.3",
     "vite": "^6.1.0",
     "vue-tsc": "^2.2.0"
   }
